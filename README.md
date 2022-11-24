@@ -1,4 +1,4 @@
-# hippo-sdk-public
+# hippo-sdk-demo
 
 hippo-sdk is available in npm as `@manahippo/hippo-sdk`.
 
